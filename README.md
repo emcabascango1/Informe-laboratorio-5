@@ -57,11 +57,11 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 - Tablas
 
-![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/TABLAS.jpg)
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/TABLAS.PNG)
 
 -Calculo de Error
 
-![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/ERROR.jpg)
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/ERROR.PNG)
 
 ### 5. VIDEO
 
