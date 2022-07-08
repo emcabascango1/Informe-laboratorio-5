@@ -59,7 +59,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/TABLAS.PNG)
 
--Calculo de Error
+- Calculo de Error
 
 ![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/ERROR.PNG)
 
@@ -70,7 +70,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 - Se evaluaron los datos proporicionados por cada una de las fuentes presentes en el circuito en cada una de las resistencias del sistema, para luego encontrar los verdaderos valores del circuito.
 
-- Concluimos que este metodo no ayuda a simplificar el problema sino a hacerlo mas largo.
+- Concluimos que este metodo noS ayuda a simplificar el problema evitando ue el mismo sea mas largo.
 
 ### 7. Bibliografia
 
