@@ -17,13 +17,51 @@ comprobar experimentalmente el teorema de Thévenin en un circuito resistivo.
   
 ## 2.Marco Teórico
 
-[![]()
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/TEORIA%20LABORATORIO%205.jpeg)
 
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/MATERIALES.PNG)
 
+- Arme el circuito que se muestra en la figura 5.1.
 
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/PASO%201.PNG)
 
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/PASO%201%20ARMADO.PNG)
+
+- Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/PASO%202.PNG)
+
+- Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/PASO%203.PNG)
+
+- Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/PASO%204.PNG)
+
+- Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/PASO%205.PNG)
+
+### 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+- Resolucion del laboratorio 
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/calculo%201.jpg)
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/calculo%202.jpg)
+
+- Tablas
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/TABLAS.jpg)
+
+-Calculo de Error
+
+![](https://github.com/emcabascango1/Informe-laboratorio-5/blob/main/imagenes/ERROR.jpg)
 
 ### 5. VIDEO
 
